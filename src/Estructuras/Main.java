@@ -60,6 +60,7 @@ public class Main {
         }
         
         System.out.print("Cambio 3 \n");
+        System.out.print("Cambio 3 \n");
         
     }
     
