@@ -11,7 +11,7 @@ package Estructuras;
 public interface Monoide <E> {
     
     E getNeutro ();
-    
+    //Esto no es nada;
     E suma (E e);
       
 }
